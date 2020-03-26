@@ -1,0 +1,7 @@
+applications:
+- name: qualtrics-hdb-webhook
+  host: qualtrics-hdb-webhook
+  timeout: 600
+  path: .
+  memory: 128M
+  command: python responseHandler.py
