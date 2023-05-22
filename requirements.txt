@@ -1,4 +1,4 @@
 hdbcli
-requests==2.23.0
+requests==2.31.0
 simplejson==3.17.0
 
